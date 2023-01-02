@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GJJS
 - 👀 I’m interested in learning the basics
-- 🌱 I’m currently learning scripting with powershell after that I'll go to bash and then to Python.
+- 🌱 I’m currently doing TOP Foundations course.
 - 📫 How to reach me through here I guess lol
 
 <!---
